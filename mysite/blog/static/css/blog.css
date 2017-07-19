@@ -1,0 +1,22 @@
+body{
+    background-color: #A9E3F4 ;
+    font-size: 20px;
+}
+.container{
+    width: 80%;
+    margin-top: 5em;
+    background-color: #fff;
+    padding: 2em
+}
+.title{
+    font-size: 50px;
+    margin: 1em
+}
+h1{
+    font-size: 40px;
+    font-weight: 600;
+    color:  #7C6C5D ;
+}
+a{
+    text-decoration: none;
+}
